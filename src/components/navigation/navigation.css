@@ -1,0 +1,11 @@
+nav {
+    width: 50%;
+    float: right;
+    padding: 5px 15px;
+}
+ul {
+    list-style: none;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+}
