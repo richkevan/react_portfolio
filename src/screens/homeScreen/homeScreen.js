@@ -14,7 +14,7 @@ export const HomeScreen = () => {
                 portfolio. In the mean time check out some of the work 
                 I have been doing on my github
             </p>
-            <a href='' ><img src={github} alt='github' /></a>
+            <a href='https://github.com/richkevan'><img src={github} alt='github' /></a>
         </div>
         </>
     )
