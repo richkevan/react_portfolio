@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react_portfolio/static/css/main.65b5b6f6.chunk.css",
-    "main.js": "/react_portfolio/static/js/main.7c244aae.chunk.js",
-    "main.js.map": "/react_portfolio/static/js/main.7c244aae.chunk.js.map",
-    "runtime-main.js": "/react_portfolio/static/js/runtime-main.c775cca7.js",
-    "runtime-main.js.map": "/react_portfolio/static/js/runtime-main.c775cca7.js.map",
-    "static/js/2.7604c95a.chunk.js": "/react_portfolio/static/js/2.7604c95a.chunk.js",
-    "static/js/2.7604c95a.chunk.js.map": "/react_portfolio/static/js/2.7604c95a.chunk.js.map",
-    "static/js/3.7bdeb9d0.chunk.js": "/react_portfolio/static/js/3.7bdeb9d0.chunk.js",
-    "static/js/3.7bdeb9d0.chunk.js.map": "/react_portfolio/static/js/3.7bdeb9d0.chunk.js.map",
-    "index.html": "/react_portfolio/index.html",
-    "static/css/main.65b5b6f6.chunk.css.map": "/react_portfolio/static/css/main.65b5b6f6.chunk.css.map",
-    "static/js/2.7604c95a.chunk.js.LICENSE.txt": "/react_portfolio/static/js/2.7604c95a.chunk.js.LICENSE.txt",
-    "static/media/github.c30e678c.png": "/react_portfolio/static/media/github.c30e678c.png",
-    "static/media/think.df07e593.png": "/react_portfolio/static/media/think.df07e593.png"
+    "main.css": "/static/css/main.65b5b6f6.chunk.css",
+    "main.js": "/static/js/main.7c244aae.chunk.js",
+    "main.js.map": "/static/js/main.7c244aae.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f8312ca8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f8312ca8.js.map",
+    "static/js/2.7604c95a.chunk.js": "/static/js/2.7604c95a.chunk.js",
+    "static/js/2.7604c95a.chunk.js.map": "/static/js/2.7604c95a.chunk.js.map",
+    "static/js/3.7bdeb9d0.chunk.js": "/static/js/3.7bdeb9d0.chunk.js",
+    "static/js/3.7bdeb9d0.chunk.js.map": "/static/js/3.7bdeb9d0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.65b5b6f6.chunk.css.map": "/static/css/main.65b5b6f6.chunk.css.map",
+    "static/js/2.7604c95a.chunk.js.LICENSE.txt": "/static/js/2.7604c95a.chunk.js.LICENSE.txt",
+    "static/media/github.c30e678c.png": "/static/media/github.c30e678c.png",
+    "static/media/think.df07e593.png": "/static/media/think.df07e593.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c775cca7.js",
+    "static/js/runtime-main.f8312ca8.js",
     "static/js/2.7604c95a.chunk.js",
     "static/css/main.65b5b6f6.chunk.css",
     "static/js/main.7c244aae.chunk.js"
